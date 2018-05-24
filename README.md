@@ -6,7 +6,7 @@ A board hosting a ATtiny85 and two potentiometers, typically used as a minimal s
 
 In this repository you find schematic and production files.
 
-![ATtiny multiboard](Images/ATtiny_Gerber_view.jpg)
+![ATtiny multiboard](Images/ATtiny_GerberView.jpg)
 
 
 
